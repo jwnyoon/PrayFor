@@ -1,0 +1,1481 @@
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="weight" type="integer" />
+    </attributes>
+    <nodes>
+      <node id="lamercriminals" label="lamercriminals">
+        <attvalues>
+          <attvalue for="0" value="40" />
+        </attvalues>
+      </node>
+      <node id="justiceformikebrown" label="justiceformikebrown">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </node>
+      <node id="shot" label="shot">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </node>
+      <node id="labubebe" label="labubebe">
+        <attvalues>
+          <attvalue for="0" value="40" />
+        </attvalues>
+      </node>
+      <node id="being" label="being">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </node>
+      <node id="prayfor..." label="prayfor...">
+        <attvalues>
+          <attvalue for="0" value="183" />
+        </attvalues>
+      </node>
+      <node id="riotfortheeightball" label="riotfortheeightball">
+        <attvalues>
+          <attvalue for="0" value="34" />
+        </attvalues>
+      </node>
+      <node id="openingday" label="openingday">
+        <attvalues>
+          <attvalue for="0" value="80" />
+        </attvalues>
+      </node>
+      <node id="ormaybenot" label="ormaybenot">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </node>
+      <node id="prayfor.." label="prayfor..">
+        <attvalues>
+          <attvalue for="0" value="73" />
+        </attvalues>
+      </node>
+      <node id="redrivernm…http://t.co/vokd3m50go" label="redrivernm…http://t.co/vokd3m50go">
+        <attvalues>
+          <attvalue for="0" value="30" />
+        </attvalues>
+      </node>
+      <node id="getinmybelly" label="getinmybelly">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="police" label="police">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </node>
+      <node id="juaralagu" label="juaralagu">
+        <attvalues>
+          <attvalue for="0" value="577" />
+        </attvalues>
+      </node>
+      <node id="justice" label="justice">
+        <attvalues>
+          <attvalue for="0" value="48" />
+        </attvalues>
+      </node>
+      <node id="prayfor......humanity" label="prayfor......humanity">
+        <attvalues>
+          <attvalue for="0" value="67" />
+        </attvalues>
+      </node>
+      <node id="prayfor...allofmyfriends" label="prayfor...allofmyfriends">
+        <attvalues>
+          <attvalue for="0" value="109" />
+        </attvalues>
+      </node>
+      <node id="olga." label="olga.">
+        <attvalues>
+          <attvalue for="0" value="38" />
+        </attvalues>
+      </node>
+      <node id="mrbean" label="mrbean">
+        <attvalues>
+          <attvalue for="0" value="37" />
+        </attvalues>
+      </node>
+      <node id="tj" label="tj">
+        <attvalues>
+          <attvalue for="0" value="50" />
+        </attvalues>
+      </node>
+      <node id="moemoneyent🙌💸" label="moemoneyent🙌💸">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </node>
+      <node id="prayfor&quot;" label="prayfor&quot;">
+        <attvalues>
+          <attvalue for="0" value="48" />
+        </attvalues>
+      </node>
+      <node id="laketahoe..." label="laketahoe...">
+        <attvalues>
+          <attvalue for="0" value="29" />
+        </attvalues>
+      </node>
+      <node id="obama" label="obama">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="gottagomyownway" label="gottagomyownway">
+        <attvalues>
+          <attvalue for="0" value="33" />
+        </attvalues>
+      </node>
+      <node id="ชู3นิ้ว" label="ชู3นิ้ว">
+        <attvalues>
+          <attvalue for="0" value="33" />
+        </attvalues>
+      </node>
+      <node id="stadiumlarkin" label="stadiumlarkin">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </node>
+      <node id="lakewood" label="lakewood">
+        <attvalues>
+          <attvalue for="0" value="40" />
+        </attvalues>
+      </node>
+      <node id="prayfor🐜" label="prayfor🐜">
+        <attvalues>
+          <attvalue for="0" value="259" />
+        </attvalues>
+      </node>
+      <node id="kimberleybc" label="kimberleybc">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </node>
+      <node id="ripjoey" label="ripjoey">
+        <attvalues>
+          <attvalue for="0" value="62" />
+        </attvalues>
+      </node>
+      <node id="smh" label="smh">
+        <attvalues>
+          <attvalue for="0" value="45" />
+        </attvalues>
+      </node>
+      <node id="prayfor?" label="prayfor?">
+        <attvalues>
+          <attvalue for="0" value="28" />
+        </attvalues>
+      </node>
+      <node id="indigenous" label="indigenous">
+        <attvalues>
+          <attvalue for="0" value="445" />
+        </attvalues>
+      </node>
+      <node id="majorlossthough" label="majorlossthough">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </node>
+      <node id="tubagusahmadrifai" label="tubagusahmadrifai">
+        <attvalues>
+          <attvalue for="0" value="41" />
+        </attvalues>
+      </node>
+      <node id="prayfor$collapse" label="prayfor$collapse">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </node>
+      <node id="fan" label="fan">
+        <attvalues>
+          <attvalue for="0" value="36" />
+        </attvalues>
+      </node>
+      <node id="prayfor…" label="prayfor…">
+        <attvalues>
+          <attvalue for="0" value="57" />
+        </attvalues>
+      </node>
+      <node id="prayfor_naija" label="prayfor_naija">
+        <attvalues>
+          <attvalue for="0" value="51" />
+        </attvalues>
+      </node>
+      <node id="vailopening" label="vailopening">
+        <attvalues>
+          <attvalue for="0" value="50" />
+        </attvalues>
+      </node>
+      <node id="unitered" label="unitered">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="trayvonmartin" label="trayvonmartin">
+        <attvalues>
+          <attvalue for="0" value="36" />
+        </attvalues>
+      </node>
+      <node id="discodown" label="discodown">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </node>
+      <node id="prayfor." label="prayfor.">
+        <attvalues>
+          <attvalue for="0" value="216" />
+        </attvalues>
+      </node>
+      <node id="thewayitshouldbe" label="thewayitshouldbe">
+        <attvalues>
+          <attvalue for="0" value="45" />
+        </attvalues>
+      </node>
+      <node id="prayfor😺" label="prayfor😺">
+        <attvalues>
+          <attvalue for="0" value="52" />
+        </attvalues>
+      </node>
+      <node id="justice!" label="justice!">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </node>
+      <node id="prayfor@tseringg_" label="prayfor@tseringg_">
+        <attvalues>
+          <attvalue for="0" value="127" />
+        </attvalues>
+      </node>
+      <node id="51" label="51">
+        <attvalues>
+          <attvalue for="0" value="100" />
+        </attvalues>
+      </node>
+      <node id="prayfor@davelee1968sdogs" label="prayfor@davelee1968sdogs">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </node>
+      <node id="prayfor@lipglossjill" label="prayfor@lipglossjill">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="bless" label="bless">
+        <attvalues>
+          <attvalue for="0" value="36" />
+        </attvalues>
+      </node>
+      <node id="prayfor...." label="prayfor....">
+        <attvalues>
+          <attvalue for="0" value="46" />
+        </attvalues>
+      </node>
+      <node id="yamecanse" label="yamecanse">
+        <attvalues>
+          <attvalue for="0" value="48" />
+        </attvalues>
+      </node>
+      <node id="moemoneyent💸💸💵💰" label="moemoneyent💸💸💵💰">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </node>
+      <node id="prayforademvangeudi" label="prayforademvangeudi">
+        <attvalues>
+          <attvalue for="0" value="33" />
+        </attvalues>
+      </node>
+      <node id="sunghajung" label="sunghajung">
+        <attvalues>
+          <attvalue for="0" value="40" />
+        </attvalues>
+      </node>
+      <node id="prayforferguson" label="prayforferguson">
+        <attvalues>
+          <attvalue for="0" value="75" />
+        </attvalues>
+      </node>
+      <node id="lovemother" label="lovemother">
+        <attvalues>
+          <attvalue for="0" value="37" />
+        </attvalues>
+      </node>
+      <node id="49ersvsseahawks" label="49ersvsseahawks">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </node>
+      <node id="prayfor(insertname)" label="prayfor(insertname)">
+        <attvalues>
+          <attvalue for="0" value="44" />
+        </attvalues>
+      </node>
+      <node id="ahlulbayt" label="ahlulbayt">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </node>
+      <node id="twelve" label="twelve">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </node>
+      <node id="guessthesong" label="guessthesong">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </node>
+      <node id="arbaeenwalk" label="arbaeenwalk">
+        <attvalues>
+          <attvalue for="0" value="30" />
+        </attvalues>
+      </node>
+      <node id="lfc" label="lfc">
+        <attvalues>
+          <attvalue for="0" value="40" />
+        </attvalues>
+      </node>
+      <node id="stopviolence" label="stopviolence">
+        <attvalues>
+          <attvalue for="0" value="36" />
+        </attvalues>
+      </node>
+      <node id="smartmove" label="smartmove">
+        <attvalues>
+          <attvalue for="0" value="29" />
+        </attvalues>
+      </node>
+      <node id="allah" label="allah">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="50" label="50">
+        <attvalues>
+          <attvalue for="0" value="155" />
+        </attvalues>
+      </node>
+      <node id="malaysia" label="malaysia">
+        <attvalues>
+          <attvalue for="0" value="554" />
+        </attvalues>
+      </node>
+      <node id="moemoneyent💳" label="moemoneyent💳">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="moemoneyent💵" label="moemoneyent💵">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </node>
+      <node id="snapchatting" label="snapchatting">
+        <attvalues>
+          <attvalue for="0" value="37" />
+        </attvalues>
+      </node>
+      <node id="cleveland" label="cleveland">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </node>
+      <node id="prayforsnow" label="prayforsnow">
+        <attvalues>
+          <attvalue for="0" value="397" />
+        </attvalues>
+      </node>
+      <node id="moemoneyent💴💰" label="moemoneyent💴💰">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="fergusondecision" label="fergusondecision">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </node>
+      <node id="votegoodluck" label="votegoodluck">
+        <attvalues>
+          <attvalue for="0" value="51" />
+        </attvalues>
+      </node>
+      <node id="itsthreeam" label="itsthreeam">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </node>
+      <node id="ไม่มีเพื่อน" label="ไม่มีเพื่อน">
+        <attvalues>
+          <attvalue for="0" value="33" />
+        </attvalues>
+      </node>
+      <node id="prayfor___2k14" label="prayfor___2k14">
+        <attvalues>
+          <attvalue for="0" value="42" />
+        </attvalues>
+      </node>
+      <node id="janganmaumau" label="janganmaumau">
+        <attvalues>
+          <attvalue for="0" value="46" />
+        </attvalues>
+      </node>
+      <node id="dealwith" label="dealwith">
+        <attvalues>
+          <attvalue for="0" value="33" />
+        </attvalues>
+      </node>
+      <node id="ak6441" label="ak6441">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </node>
+      <node id="forbiddenbeautypray" label="forbiddenbeautypray">
+        <attvalues>
+          <attvalue for="0" value="33" />
+        </attvalues>
+      </node>
+      <node id="tahoe," label="tahoe,">
+        <attvalues>
+          <attvalue for="0" value="54" />
+        </attvalues>
+      </node>
+      <node id="warmongerswon" label="warmongerswon">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </node>
+      <node id="dies" label="dies">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </node>
+      <node id="yisusplxx" label="yisusplxx">
+        <attvalues>
+          <attvalue for="0" value="43" />
+        </attvalues>
+      </node>
+      <node id="idothiseverysunday" label="idothiseverysunday">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="explorebc" label="explorebc">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </node>
+      <node id="twosidesofacoin" label="twosidesofacoin">
+        <attvalues>
+          <attvalue for="0" value="33" />
+        </attvalues>
+      </node>
+      <node id="prayfor@trulyxmadly" label="prayfor@trulyxmadly">
+        <attvalues>
+          <attvalue for="0" value="66" />
+        </attvalues>
+      </node>
+      <node id="standwith" label="standwith">
+        <attvalues>
+          <attvalue for="0" value="112" />
+        </attvalues>
+      </node>
+      <node id="prayfor(insert" label="prayfor(insert">
+        <attvalues>
+          <attvalue for="0" value="64" />
+        </attvalues>
+      </node>
+      <node id="prayfor___2k15" label="prayfor___2k15">
+        <attvalues>
+          <attvalue for="0" value="63" />
+        </attvalues>
+      </node>
+      <node id="รับเข้ากลุ่ม" label="รับเข้ากลุ่ม">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </node>
+      <node id="lovetheatre" label="lovetheatre">
+        <attvalues>
+          <attvalue for="0" value="40" />
+        </attvalues>
+      </node>
+      <node id="cnn" label="cnn">
+        <attvalues>
+          <attvalue for="0" value="27" />
+        </attvalues>
+      </node>
+      <node id="llya." label="llya.">
+        <attvalues>
+          <attvalue for="0" value="50" />
+        </attvalues>
+      </node>
+      <node id="prayforpele" label="prayforpele">
+        <attvalues>
+          <attvalue for="0" value="28" />
+        </attvalues>
+      </node>
+      <node id="iwantcandy" label="iwantcandy">
+        <attvalues>
+          <attvalue for="0" value="80" />
+        </attvalues>
+      </node>
+      <node id="เทียบกะหน้า" label="เทียบกะหน้า">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="libcrib" label="libcrib">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="fergunson" label="fergunson">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </node>
+      <node id="tahoesouth" label="tahoesouth">
+        <attvalues>
+          <attvalue for="0" value="29" />
+        </attvalues>
+      </node>
+      <node id="aca" label="aca">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="skibc" label="skibc">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </node>
+      <node id="brasil" label="brasil">
+        <attvalues>
+          <attvalue for="0" value="36" />
+        </attvalues>
+      </node>
+      <node id="voicesaveanita" label="voicesaveanita">
+        <attvalues>
+          <attvalue for="0" value="53" />
+        </attvalues>
+      </node>
+      <node id="amatfamily" label="amatfamily">
+        <attvalues>
+          <attvalue for="0" value="53" />
+        </attvalues>
+      </node>
+      <node id="islam&quot;" label="islam&quot;">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </node>
+      <node id="stayhealth" label="stayhealth">
+        <attvalues>
+          <attvalue for="0" value="37" />
+        </attvalues>
+      </node>
+      <node id="fwc" label="fwc">
+        <attvalues>
+          <attvalue for="0" value="361" />
+        </attvalues>
+      </node>
+      <node id="boh" label="boh">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </node>
+      <node id="airport" label="airport">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </node>
+      <node id="fergusonriottips" label="fergusonriottips">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="massive" label="massive">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </node>
+      <node id="signature" label="signature">
+        <attvalues>
+          <attvalue for="0" value="40" />
+        </attvalues>
+      </node>
+      <node id="ewalaf2014" label="ewalaf2014">
+        <attvalues>
+          <attvalue for="0" value="577" />
+        </attvalues>
+      </node>
+      <node id="uniteblue" label="uniteblue">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="unasemanasinalcohol" label="unasemanasinalcohol">
+        <attvalues>
+          <attvalue for="0" value="54" />
+        </attvalues>
+      </node>
+      <node id="confession" label="confession">
+        <attvalues>
+          <attvalue for="0" value="33" />
+        </attvalues>
+      </node>
+      <node id="yourself" label="yourself">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </node>
+      <node id="1years" label="1years">
+        <attvalues>
+          <attvalue for="0" value="28" />
+        </attvalues>
+      </node>
+      <node id="prayfor〽️olly" label="prayfor〽️olly">
+        <attvalues>
+          <attvalue for="0" value="203" />
+        </attvalues>
+      </node>
+      <node id="touchdown" label="touchdown">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="winterishere" label="winterishere">
+        <attvalues>
+          <attvalue for="0" value="29" />
+        </attvalues>
+      </node>
+      <node id="ldalaunch" label="ldalaunch">
+        <attvalues>
+          <attvalue for="0" value="40" />
+        </attvalues>
+      </node>
+      <node id="latingrammy" label="latingrammy">
+        <attvalues>
+          <attvalue for="0" value="40" />
+        </attvalues>
+      </node>
+      <node id="mikebrown" label="mikebrown">
+        <attvalues>
+          <attvalue for="0" value="94" />
+        </attvalues>
+      </node>
+      <node id="prayfor@callen11111" label="prayfor@callen11111">
+        <attvalues>
+          <attvalue for="0" value="37" />
+        </attvalues>
+      </node>
+      <node id="brownfamily" label="brownfamily">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </node>
+      <node id="moemoneyent" label="moemoneyent">
+        <attvalues>
+          <attvalue for="0" value="645" />
+        </attvalues>
+      </node>
+      <node id="gopro" label="gopro">
+        <attvalues>
+          <attvalue for="0" value="50" />
+        </attvalues>
+      </node>
+      <node id="racist" label="racist">
+        <attvalues>
+          <attvalue for="0" value="34" />
+        </attvalues>
+      </node>
+      <node id="pencintarasulallah" label="pencintarasulallah">
+        <attvalues>
+          <attvalue for="0" value="554" />
+        </attvalues>
+      </node>
+      <node id="indiana" label="indiana">
+        <attvalues>
+          <attvalue for="0" value="45" />
+        </attvalues>
+      </node>
+      <node id="força" label="força">
+        <attvalues>
+          <attvalue for="0" value="36" />
+        </attvalues>
+      </node>
+      <node id="winterwonderland" label="winterwonderland">
+        <attvalues>
+          <attvalue for="0" value="51" />
+        </attvalues>
+      </node>
+      <node id="cepot,,,,," label="cepot,,,,,">
+        <attvalues>
+          <attvalue for="0" value="78" />
+        </attvalues>
+      </node>
+      <node id="prayfor_______2k14" label="prayfor_______2k14">
+        <attvalues>
+          <attvalue for="0" value="51" />
+        </attvalues>
+      </node>
+      <node id="อำนาจในหิน" label="อำนาจในหิน">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </node>
+      <node id="myfavsinger" label="myfavsinger">
+        <attvalues>
+          <attvalue for="0" value="361" />
+        </attvalues>
+      </node>
+      <node id="boy" label="boy">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </node>
+      <node id="moemoneyent🙌💵💶💶" label="moemoneyent🙌💵💶💶">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </node>
+      <node id="prayfor.tnh" label="prayfor.tnh">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </node>
+      <node id="fridaysbarrakalloh" label="fridaysbarrakalloh">
+        <attvalues>
+          <attvalue for="0" value="37" />
+        </attvalues>
+      </node>
+      <node id="weareallmonkeys" label="weareallmonkeys">
+        <attvalues>
+          <attvalue for="0" value="34" />
+        </attvalues>
+      </node>
+      <node id="mh370" label="mh370">
+        <attvalues>
+          <attvalue for="0" value="45" />
+        </attvalues>
+      </node>
+      <node id="talentedsinger" label="talentedsinger">
+        <attvalues>
+          <attvalue for="0" value="216" />
+        </attvalues>
+      </node>
+      <node id="voicesavereagan" label="voicesavereagan">
+        <attvalues>
+          <attvalue for="0" value="51" />
+        </attvalues>
+      </node>
+      <node id="newmusic" label="newmusic">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </node>
+      <node id="p2" label="p2">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="beastmode" label="beastmode">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </node>
+      <node id="forçaneymar" label="forçaneymar">
+        <attvalues>
+          <attvalue for="0" value="36" />
+        </attvalues>
+      </node>
+      <node id="weloveulama" label="weloveulama">
+        <attvalues>
+          <attvalue for="0" value="554" />
+        </attvalues>
+      </node>
+      <node id="twostepsback" label="twostepsback">
+        <attvalues>
+          <attvalue for="0" value="33" />
+        </attvalues>
+      </node>
+      <node id="gotta" label="gotta">
+        <attvalues>
+          <attvalue for="0" value="33" />
+        </attvalues>
+      </node>
+      <node id="prayfor@emedemixta." label="prayfor@emedemixta.">
+        <attvalues>
+          <attvalue for="0" value="45" />
+        </attvalues>
+      </node>
+      <node id="justicefor" label="justicefor">
+        <attvalues>
+          <attvalue for="0" value="94" />
+        </attvalues>
+      </node>
+      <node id="prayfor" label="prayfor">
+        <attvalues>
+          <attvalue for="0" value="7482" />
+        </attvalues>
+      </node>
+      <node id="mikebrownfamily" label="mikebrownfamily">
+        <attvalues>
+          <attvalue for="0" value="138" />
+        </attvalues>
+      </node>
+      <node id="sadness" label="sadness">
+        <attvalues>
+          <attvalue for="0" value="28" />
+        </attvalues>
+      </node>
+      <node id="forwardnaija" label="forwardnaija">
+        <attvalues>
+          <attvalue for="0" value="51" />
+        </attvalues>
+      </node>
+      <node id="เอาหมวยมาสู้" label="เอาหมวยมาสู้">
+        <attvalues>
+          <attvalue for="0" value="39" />
+        </attvalues>
+      </node>
+      <node id="neymar" label="neymar">
+        <attvalues>
+          <attvalue for="0" value="36" />
+        </attvalues>
+      </node>
+      <node id="1." label="1.">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </node>
+      <node id="staystrongally" label="staystrongally">
+        <attvalues>
+          <attvalue for="0" value="32" />
+        </attvalues>
+      </node>
+      <node id="51&quot;" label="51&quot;">
+        <attvalues>
+          <attvalue for="0" value="55" />
+        </attvalues>
+      </node>
+      <node id="mh17" label="mh17">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </node>
+      <node id="staystrong" label="staystrong">
+        <attvalues>
+          <attvalue for="0" value="58" />
+        </attvalues>
+      </node>
+      <node id="prayfor....." label="prayfor.....">
+        <attvalues>
+          <attvalue for="0" value="27" />
+        </attvalues>
+      </node>
+      <node id="prayer" label="prayer">
+        <attvalues>
+          <attvalue for="0" value="27" />
+        </attvalues>
+      </node>
+      <node id="prayforlampung" label="prayforlampung">
+        <attvalues>
+          <attvalue for="0" value="69" />
+        </attvalues>
+      </node>
+      <node id="nobiasnesshere" label="nobiasnesshere">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </node>
+      <node id="…" label="…">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </node>
+      <node id="year-young" label="year-young">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </node>
+      <node id="prayforgoldengetindonesia" label="prayforgoldengetindonesia">
+        <attvalues>
+          <attvalue for="0" value="52" />
+        </attvalues>
+      </node>
+      <node id="skisunburst" label="skisunburst">
+        <attvalues>
+          <attvalue for="0" value="51" />
+        </attvalues>
+      </node>
+      <node id="yanolovuelvoahacer" label="yanolovuelvoahacer">
+        <attvalues>
+          <attvalue for="0" value="54" />
+        </attvalues>
+      </node>
+      <node id="49" label="49">
+        <attvalues>
+          <attvalue for="0" value="155" />
+        </attvalues>
+      </node>
+      <node id="newsroom" label="newsroom">
+        <attvalues>
+          <attvalue for="0" value="27" />
+        </attvalues>
+      </node>
+      <node id="larkanaforpti" label="larkanaforpti">
+        <attvalues>
+          <attvalue for="0" value="40" />
+        </attvalues>
+      </node>
+      <node id="yougotthis" label="yougotthis">
+        <attvalues>
+          <attvalue for="0" value="33" />
+        </attvalues>
+      </node>
+      <node id="excuses" label="excuses">
+        <attvalues>
+          <attvalue for="0" value="37" />
+        </attvalues>
+      </node>
+      <node id="prayfor'merica" label="prayfor'merica">
+        <attvalues>
+          <attvalue for="0" value="48" />
+        </attvalues>
+      </node>
+      <node id="yessir" label="yessir">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </node>
+      <node id="prayfor_yukiko" label="prayfor_yukiko">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </node>
+      <node id="peacefor" label="peacefor">
+        <attvalues>
+          <attvalue for="0" value="94" />
+        </attvalues>
+      </node>
+      <node id="20/20vision" label="20/20vision">
+        <attvalues>
+          <attvalue for="0" value="445" />
+        </attvalues>
+      </node>
+      <node id="prayfortrevor" label="prayfortrevor">
+        <attvalues>
+          <attvalue for="0" value="48" />
+        </attvalues>
+      </node>
+      <node id="gospelfilms" label="gospelfilms">
+        <attvalues>
+          <attvalue for="0" value="445" />
+        </attvalues>
+      </node>
+      <node id="muslimbysoul" label="muslimbysoul">
+        <attvalues>
+          <attvalue for="0" value="28" />
+        </attvalues>
+      </node>
+      <node id="hutinsert" label="hutinsert">
+        <attvalues>
+          <attvalue for="0" value="38" />
+        </attvalues>
+      </node>
+      <node id="moemoneyent💸💵💴" label="moemoneyent💸💵💴">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </node>
+      <node id="after" label="after">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </node>
+      <node id="ferguson" label="ferguson">
+        <attvalues>
+          <attvalue for="0" value="290" />
+        </attvalues>
+      </node>
+      <node id="rrsa" label="rrsa">
+        <attvalues>
+          <attvalue for="0" value="30" />
+        </attvalues>
+      </node>
+      <node id="seriouslytho" label="seriouslytho">
+        <attvalues>
+          <attvalue for="0" value="27" />
+        </attvalues>
+      </node>
+      <node id="prayfor...rt" label="prayfor...rt">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </node>
+      <node id="werestillsuperbowlbound" label="werestillsuperbowlbound">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </node>
+      <node id="darrenwilson" label="darrenwilson">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="kotabharu" label="kotabharu">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </node>
+      <node id="freekali" label="freekali">
+        <attvalues>
+          <attvalue for="0" value="32" />
+        </attvalues>
+      </node>
+      <node id="remember" label="remember">
+        <attvalues>
+          <attvalue for="0" value="28" />
+        </attvalues>
+      </node>
+      <node id="powderweekend" label="powderweekend">
+        <attvalues>
+          <attvalue for="0" value="51" />
+        </attvalues>
+      </node>
+      <node id="neymarjr" label="neymarjr">
+        <attvalues>
+          <attvalue for="0" value="36" />
+        </attvalues>
+      </node>
+      <node id="spaming" label="spaming">
+        <attvalues>
+          <attvalue for="0" value="37" />
+        </attvalues>
+      </node>
+      <node id="prayforferguson:" label="prayforferguson:">
+        <attvalues>
+          <attvalue for="0" value="74" />
+        </attvalues>
+      </node>
+      <node id="blackpeople" label="blackpeople">
+        <attvalues>
+          <attvalue for="0" value="36" />
+        </attvalues>
+      </node>
+      <node id="ไปร้านเลย" label="ไปร้านเลย">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="vailsnow" label="vailsnow">
+        <attvalues>
+          <attvalue for="0" value="32" />
+        </attvalues>
+      </node>
+      <node id="wethands" label="wethands">
+        <attvalues>
+          <attvalue for="0" value="89" />
+        </attvalues>
+      </node>
+      <node id="rain," label="rain,">
+        <attvalues>
+          <attvalue for="0" value="33" />
+        </attvalues>
+      </node>
+      <node id="kembalikansemula" label="kembalikansemula">
+        <attvalues>
+          <attvalue for="0" value="361" />
+        </attvalues>
+      </node>
+      <node id="batgirl" label="batgirl">
+        <attvalues>
+          <attvalue for="0" value="33" />
+        </attvalues>
+      </node>
+      <node id="centerstar" label="centerstar">
+        <attvalues>
+          <attvalue for="0" value="62" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="lamercriminals" target="latingrammy" weight="40" />
+      <edge id="1" source="lamercriminals" target="lfc" weight="40" />
+      <edge id="2" source="lamercriminals" target="lovetheatre" weight="40" />
+      <edge id="3" source="lamercriminals" target="larkanaforpti" weight="40" />
+      <edge id="4" source="lamercriminals" target="prayfor" weight="40" />
+      <edge id="5" source="lamercriminals" target="iwantcandy" weight="80" />
+      <edge id="6" source="lamercriminals" target="labubebe" weight="40" />
+      <edge id="7" source="lamercriminals" target="ldalaunch" weight="40" />
+      <edge id="8" source="justiceformikebrown" target="mikebrown" weight="47" />
+      <edge id="9" source="justiceformikebrown" target="ferguson" weight="47" />
+      <edge id="10" source="justiceformikebrown" target="prayfor..." weight="47" />
+      <edge id="11" source="shot" target="twelve" weight="17" />
+      <edge id="12" source="shot" target="police" weight="17" />
+      <edge id="13" source="shot" target="boy" weight="17" />
+      <edge id="14" source="shot" target="being" weight="17" />
+      <edge id="15" source="shot" target="dies" weight="17" />
+      <edge id="16" source="shot" target="after" weight="17" />
+      <edge id="17" source="shot" target="prayfor" weight="17" />
+      <edge id="18" source="shot" target="cleveland" weight="17" />
+      <edge id="19" source="shot" target="justice!" weight="17" />
+      <edge id="20" source="shot" target="year-young" weight="17" />
+      <edge id="21" source="labubebe" target="latingrammy" weight="40" />
+      <edge id="22" source="labubebe" target="lfc" weight="40" />
+      <edge id="23" source="labubebe" target="lovetheatre" weight="40" />
+      <edge id="24" source="labubebe" target="larkanaforpti" weight="40" />
+      <edge id="25" source="labubebe" target="prayfor" weight="40" />
+      <edge id="26" source="labubebe" target="iwantcandy" weight="80" />
+      <edge id="27" source="labubebe" target="ldalaunch" weight="40" />
+      <edge id="28" source="being" target="twelve" weight="17" />
+      <edge id="29" source="being" target="boy" weight="17" />
+      <edge id="30" source="being" target="dies" weight="17" />
+      <edge id="31" source="being" target="after" weight="17" />
+      <edge id="32" source="being" target="prayfor" weight="17" />
+      <edge id="33" source="being" target="justice!" weight="17" />
+      <edge id="34" source="being" target="cleveland" weight="17" />
+      <edge id="35" source="being" target="police" weight="17" />
+      <edge id="36" source="being" target="year-young" weight="17" />
+      <edge id="37" source="prayfor..." target="fergunson" weight="23" />
+      <edge id="38" source="prayfor..." target="neymar" weight="36" />
+      <edge id="39" source="prayfor..." target="mikebrown" weight="47" />
+      <edge id="40" source="prayfor..." target="brasil" weight="36" />
+      <edge id="41" source="prayfor..." target="neymarjr" weight="36" />
+      <edge id="42" source="prayfor..." target="forçaneymar" weight="36" />
+      <edge id="43" source="prayfor..." target="fan" weight="36" />
+      <edge id="44" source="prayfor..." target="ferguson" weight="47" />
+      <edge id="45" source="prayfor..." target="força" weight="36" />
+      <edge id="46" source="riotfortheeightball" target="weareallmonkeys" weight="34" />
+      <edge id="47" source="riotfortheeightball" target="racist" weight="34" />
+      <edge id="48" source="riotfortheeightball" target="prayfor" weight="34" />
+      <edge id="49" source="openingday" target="tahoesouth" weight="29" />
+      <edge id="50" source="openingday" target="winterishere" weight="29" />
+      <edge id="51" source="openingday" target="laketahoe..." weight="29" />
+      <edge id="52" source="openingday" target="prayforsnow" weight="29" />
+      <edge id="53" source="openingday" target="powderweekend" weight="51" />
+      <edge id="54" source="redrivernm…http://t.co/vokd3m50go" target="rrsa" weight="30" />
+      <edge id="55" source="redrivernm…http://t.co/vokd3m50go" target="prayforsnow" weight="30" />
+      <edge id="56" source="police" target="twelve" weight="17" />
+      <edge id="57" source="police" target="boy" weight="17" />
+      <edge id="58" source="police" target="dies" weight="17" />
+      <edge id="59" source="police" target="after" weight="17" />
+      <edge id="60" source="police" target="prayfor" weight="17" />
+      <edge id="61" source="police" target="cleveland" weight="17" />
+      <edge id="62" source="police" target="justice!" weight="17" />
+      <edge id="63" source="police" target="year-young" weight="17" />
+      <edge id="64" source="juaralagu" target="kembalikansemula" weight="361" />
+      <edge id="65" source="juaralagu" target="ewalaf2014" weight="577" />
+      <edge id="66" source="juaralagu" target="talentedsinger" weight="216" />
+      <edge id="67" source="juaralagu" target="myfavsinger" weight="361" />
+      <edge id="68" source="juaralagu" target="fwc" weight="361" />
+      <edge id="69" source="justice" target="prayfor" weight="48" />
+      <edge id="70" source="olga." target="hutinsert" weight="38" />
+      <edge id="71" source="olga." target="prayfor" weight="38" />
+      <edge id="72" source="mrbean" target="excuses" weight="37" />
+      <edge id="73" source="mrbean" target="snapchatting" weight="37" />
+      <edge id="74" source="mrbean" target="prayfor" weight="37" />
+      <edge id="75" source="tj" target="prayfor" weight="50" />
+      <edge id="76" source="prayfor&quot;" target="prayfortrevor" weight="48" />
+      <edge id="77" source="prayfor&quot;" target="prayforferguson" weight="48" />
+      <edge id="78" source="laketahoe..." target="tahoesouth" weight="29" />
+      <edge id="79" source="laketahoe..." target="winterishere" weight="29" />
+      <edge id="80" source="laketahoe..." target="prayforsnow" weight="29" />
+      <edge id="81" source="obama" target="darrenwilson" weight="11" />
+      <edge id="82" source="obama" target="p2" weight="11" />
+      <edge id="83" source="obama" target="uniteblue" weight="11" />
+      <edge id="84" source="obama" target="mikebrown" weight="11" />
+      <edge id="85" source="obama" target="libcrib" weight="11" />
+      <edge id="86" source="obama" target="aca" weight="11" />
+      <edge id="87" source="obama" target="ferguson" weight="11" />
+      <edge id="88" source="obama" target="unitered" weight="11" />
+      <edge id="89" source="obama" target="fergusonriottips" weight="11" />
+      <edge id="90" source="gottagomyownway" target="twostepsback" weight="33" />
+      <edge id="91" source="gottagomyownway" target="gotta" weight="33" />
+      <edge id="92" source="gottagomyownway" target="dealwith" weight="33" />
+      <edge id="93" source="gottagomyownway" target="yougotthis" weight="33" />
+      <edge id="94" source="gottagomyownway" target="prayfor" weight="33" />
+      <edge id="95" source="gottagomyownway" target="rain," weight="33" />
+      <edge id="96" source="gottagomyownway" target="twosidesofacoin" weight="33" />
+      <edge id="97" source="stadiumlarkin" target="mh370" weight="23" />
+      <edge id="98" source="stadiumlarkin" target="prayfor" weight="23" />
+      <edge id="99" source="stadiumlarkin" target="mh17" weight="23" />
+      <edge id="100" source="lakewood" target="sunghajung" weight="40" />
+      <edge id="101" source="lakewood" target="prayfor" weight="40" />
+      <edge id="102" source="lakewood" target="signature" weight="40" />
+      <edge id="103" source="kimberleybc" target="skibc" weight="31" />
+      <edge id="104" source="kimberleybc" target="explorebc" weight="31" />
+      <edge id="105" source="ripjoey" target="prayfor" weight="62" />
+      <edge id="106" source="smh" target="ferguson" weight="45" />
+      <edge id="107" source="smh" target="prayfor" weight="45" />
+      <edge id="108" source="indigenous" target="20/20vision" weight="445" />
+      <edge id="109" source="indigenous" target="gospelfilms" weight="445" />
+      <edge id="110" source="indigenous" target="prayfor" weight="445" />
+      <edge id="111" source="tubagusahmadrifai" target="prayfor" weight="41" />
+      <edge id="112" source="prayfor$collapse" target="warmongerswon" weight="13" />
+      <edge id="113" source="fan" target="neymar" weight="36" />
+      <edge id="114" source="fan" target="brasil" weight="36" />
+      <edge id="115" source="fan" target="neymarjr" weight="36" />
+      <edge id="116" source="fan" target="forçaneymar" weight="36" />
+      <edge id="117" source="fan" target="força" weight="36" />
+      <edge id="118" source="prayfor_naija" target="votegoodluck" weight="51" />
+      <edge id="119" source="prayfor_naija" target="forwardnaija" weight="51" />
+      <edge id="120" source="vailopening" target="gopro" weight="50" />
+      <edge id="121" source="unitered" target="darrenwilson" weight="11" />
+      <edge id="122" source="unitered" target="p2" weight="11" />
+      <edge id="123" source="unitered" target="uniteblue" weight="11" />
+      <edge id="124" source="unitered" target="mikebrown" weight="11" />
+      <edge id="125" source="unitered" target="libcrib" weight="11" />
+      <edge id="126" source="unitered" target="aca" weight="11" />
+      <edge id="127" source="unitered" target="ferguson" weight="11" />
+      <edge id="128" source="unitered" target="fergusonriottips" weight="11" />
+      <edge id="129" source="trayvonmartin" target="mikebrown" weight="36" />
+      <edge id="130" source="trayvonmartin" target="stopviolence" weight="36" />
+      <edge id="131" source="trayvonmartin" target="prayfor" weight="36" />
+      <edge id="132" source="trayvonmartin" target="bless" weight="36" />
+      <edge id="133" source="trayvonmartin" target="blackpeople" weight="36" />
+      <edge id="134" source="trayvonmartin" target="ferguson" weight="36" />
+      <edge id="135" source="discodown" target="prayfor...." weight="18" />
+      <edge id="136" source="discodown" target="guessthesong" weight="18" />
+      <edge id="137" source="discodown" target="massive" weight="18" />
+      <edge id="138" source="justice!" target="twelve" weight="17" />
+      <edge id="139" source="justice!" target="boy" weight="17" />
+      <edge id="140" source="justice!" target="dies" weight="17" />
+      <edge id="141" source="justice!" target="after" weight="17" />
+      <edge id="142" source="justice!" target="prayfor" weight="17" />
+      <edge id="143" source="justice!" target="cleveland" weight="17" />
+      <edge id="144" source="justice!" target="year-young" weight="17" />
+      <edge id="145" source="51" target="50" weight="100" />
+      <edge id="146" source="51" target="49" weight="100" />
+      <edge id="147" source="bless" target="mikebrown" weight="36" />
+      <edge id="148" source="bless" target="stopviolence" weight="36" />
+      <edge id="149" source="bless" target="prayfor" weight="36" />
+      <edge id="150" source="bless" target="blackpeople" weight="36" />
+      <edge id="151" source="bless" target="ferguson" weight="36" />
+      <edge id="152" source="prayfor...." target="guessthesong" weight="18" />
+      <edge id="153" source="prayfor...." target="massive" weight="18" />
+      <edge id="154" source="yamecanse" target="prayfor" weight="48" />
+      <edge id="155" source="sunghajung" target="prayfor" weight="40" />
+      <edge id="156" source="sunghajung" target="signature" weight="40" />
+      <edge id="157" source="prayforferguson" target="prayfortrevor" weight="48" />
+      <edge id="158" source="prayforferguson" target="newsroom" weight="27" />
+      <edge id="159" source="prayforferguson" target="prayfor" weight="27" />
+      <edge id="160" source="prayforferguson" target="prayer" weight="27" />
+      <edge id="161" source="prayforferguson" target="cnn" weight="27" />
+      <edge id="162" source="lovemother" target="spaming" weight="37" />
+      <edge id="163" source="lovemother" target="stayhealth" weight="37" />
+      <edge id="164" source="lovemother" target="prayfor" weight="37" />
+      <edge id="165" source="lovemother" target="fridaysbarrakalloh" weight="37" />
+      <edge id="166" source="ahlulbayt" target="islam&quot;" weight="16" />
+      <edge id="167" source="twelve" target="boy" weight="17" />
+      <edge id="168" source="twelve" target="dies" weight="17" />
+      <edge id="169" source="twelve" target="after" weight="17" />
+      <edge id="170" source="twelve" target="prayfor" weight="17" />
+      <edge id="171" source="twelve" target="cleveland" weight="17" />
+      <edge id="172" source="twelve" target="year-young" weight="17" />
+      <edge id="173" source="guessthesong" target="massive" weight="18" />
+      <edge id="174" source="lfc" target="latingrammy" weight="40" />
+      <edge id="175" source="lfc" target="lovetheatre" weight="40" />
+      <edge id="176" source="lfc" target="larkanaforpti" weight="40" />
+      <edge id="177" source="lfc" target="prayfor" weight="40" />
+      <edge id="178" source="lfc" target="iwantcandy" weight="80" />
+      <edge id="179" source="lfc" target="ldalaunch" weight="40" />
+      <edge id="180" source="stopviolence" target="mikebrown" weight="36" />
+      <edge id="181" source="stopviolence" target="prayfor" weight="36" />
+      <edge id="182" source="stopviolence" target="blackpeople" weight="36" />
+      <edge id="183" source="stopviolence" target="ferguson" weight="36" />
+      <edge id="184" source="50" target="51&quot;" weight="55" />
+      <edge id="185" source="50" target="49" weight="155" />
+      <edge id="186" source="malaysia" target="weloveulama" weight="554" />
+      <edge id="187" source="malaysia" target="prayfor" weight="554" />
+      <edge id="188" source="malaysia" target="pencintarasulallah" weight="554" />
+      <edge id="189" source="snapchatting" target="excuses" weight="37" />
+      <edge id="190" source="snapchatting" target="prayfor" weight="37" />
+      <edge id="191" source="cleveland" target="boy" weight="17" />
+      <edge id="192" source="cleveland" target="dies" weight="17" />
+      <edge id="193" source="cleveland" target="after" weight="17" />
+      <edge id="194" source="cleveland" target="prayfor" weight="17" />
+      <edge id="195" source="cleveland" target="year-young" weight="17" />
+      <edge id="196" source="prayforsnow" target="skisunburst" weight="51" />
+      <edge id="197" source="prayforsnow" target="tahoesouth" weight="29" />
+      <edge id="198" source="prayforsnow" target="tahoe," weight="54" />
+      <edge id="199" source="prayforsnow" target="rrsa" weight="30" />
+      <edge id="200" source="prayforsnow" target="winterishere" weight="29" />
+      <edge id="201" source="prayforsnow" target="winterwonderland" weight="51" />
+      <edge id="202" source="fergusondecision" target="prayfor" weight="31" />
+      <edge id="203" source="fergusondecision" target="brownfamily" weight="31" />
+      <edge id="204" source="votegoodluck" target="forwardnaija" weight="51" />
+      <edge id="205" source="janganmaumau" target="prayfor" weight="46" />
+      <edge id="206" source="dealwith" target="twostepsback" weight="33" />
+      <edge id="207" source="dealwith" target="gotta" weight="33" />
+      <edge id="208" source="dealwith" target="prayfor" weight="33" />
+      <edge id="209" source="dealwith" target="yougotthis" weight="33" />
+      <edge id="210" source="dealwith" target="rain," weight="33" />
+      <edge id="211" source="dealwith" target="twosidesofacoin" weight="33" />
+      <edge id="212" source="ak6441" target="kotabharu" weight="15" />
+      <edge id="213" source="ak6441" target="airport" weight="15" />
+      <edge id="214" source="forbiddenbeautypray" target="confession" weight="33" />
+      <edge id="215" source="forbiddenbeautypray" target="batgirl" weight="33" />
+      <edge id="216" source="forbiddenbeautypray" target="prayfor" weight="33" />
+      <edge id="217" source="dies" target="boy" weight="17" />
+      <edge id="218" source="dies" target="after" weight="17" />
+      <edge id="219" source="dies" target="prayfor" weight="17" />
+      <edge id="220" source="dies" target="year-young" weight="17" />
+      <edge id="221" source="yisusplxx" target="prayfor" weight="43" />
+      <edge id="222" source="idothiseverysunday" target="touchdown" weight="7" />
+      <edge id="223" source="explorebc" target="skibc" weight="31" />
+      <edge id="224" source="twosidesofacoin" target="twostepsback" weight="33" />
+      <edge id="225" source="twosidesofacoin" target="gotta" weight="33" />
+      <edge id="226" source="twosidesofacoin" target="yougotthis" weight="33" />
+      <edge id="227" source="twosidesofacoin" target="prayfor" weight="33" />
+      <edge id="228" source="twosidesofacoin" target="rain," weight="33" />
+      <edge id="229" source="standwith" target="prayfor" weight="112" />
+      <edge id="230" source="lovetheatre" target="latingrammy" weight="40" />
+      <edge id="231" source="lovetheatre" target="larkanaforpti" weight="40" />
+      <edge id="232" source="lovetheatre" target="prayfor" weight="40" />
+      <edge id="233" source="lovetheatre" target="iwantcandy" weight="80" />
+      <edge id="234" source="lovetheatre" target="ldalaunch" weight="40" />
+      <edge id="235" source="cnn" target="newsroom" weight="27" />
+      <edge id="236" source="cnn" target="prayer" weight="27" />
+      <edge id="237" source="cnn" target="prayfor" weight="27" />
+      <edge id="238" source="llya." target="prayfor" weight="50" />
+      <edge id="239" source="prayforpele" target="prayfor" weight="28" />
+      <edge id="240" source="iwantcandy" target="latingrammy" weight="80" />
+      <edge id="241" source="iwantcandy" target="larkanaforpti" weight="80" />
+      <edge id="242" source="iwantcandy" target="prayfor" weight="80" />
+      <edge id="243" source="iwantcandy" target="iwantcandy" weight="40" />
+      <edge id="244" source="iwantcandy" target="ldalaunch" weight="80" />
+      <edge id="245" source="libcrib" target="darrenwilson" weight="11" />
+      <edge id="246" source="libcrib" target="p2" weight="11" />
+      <edge id="247" source="libcrib" target="uniteblue" weight="11" />
+      <edge id="248" source="libcrib" target="mikebrown" weight="11" />
+      <edge id="249" source="libcrib" target="aca" weight="11" />
+      <edge id="250" source="libcrib" target="ferguson" weight="11" />
+      <edge id="251" source="libcrib" target="fergusonriottips" weight="11" />
+      <edge id="252" source="tahoesouth" target="winterishere" weight="29" />
+      <edge id="253" source="aca" target="darrenwilson" weight="11" />
+      <edge id="254" source="aca" target="p2" weight="11" />
+      <edge id="255" source="aca" target="uniteblue" weight="11" />
+      <edge id="256" source="aca" target="mikebrown" weight="11" />
+      <edge id="257" source="aca" target="ferguson" weight="11" />
+      <edge id="258" source="aca" target="fergusonriottips" weight="11" />
+      <edge id="259" source="brasil" target="neymar" weight="36" />
+      <edge id="260" source="brasil" target="neymarjr" weight="36" />
+      <edge id="261" source="brasil" target="forçaneymar" weight="36" />
+      <edge id="262" source="brasil" target="força" weight="36" />
+      <edge id="263" source="amatfamily" target="prayfor" weight="53" />
+      <edge id="264" source="stayhealth" target="spaming" weight="37" />
+      <edge id="265" source="stayhealth" target="prayfor" weight="37" />
+      <edge id="266" source="stayhealth" target="fridaysbarrakalloh" weight="37" />
+      <edge id="267" source="fwc" target="kembalikansemula" weight="361" />
+      <edge id="268" source="fwc" target="ewalaf2014" weight="361" />
+      <edge id="269" source="fwc" target="myfavsinger" weight="361" />
+      <edge id="270" source="airport" target="kotabharu" weight="15" />
+      <edge id="271" source="fergusonriottips" target="darrenwilson" weight="11" />
+      <edge id="272" source="fergusonriottips" target="p2" weight="11" />
+      <edge id="273" source="fergusonriottips" target="uniteblue" weight="11" />
+      <edge id="274" source="fergusonriottips" target="mikebrown" weight="11" />
+      <edge id="275" source="fergusonriottips" target="ferguson" weight="11" />
+      <edge id="276" source="signature" target="prayfor" weight="40" />
+      <edge id="277" source="ewalaf2014" target="kembalikansemula" weight="361" />
+      <edge id="278" source="ewalaf2014" target="talentedsinger" weight="216" />
+      <edge id="279" source="ewalaf2014" target="myfavsinger" weight="361" />
+      <edge id="280" source="uniteblue" target="darrenwilson" weight="11" />
+      <edge id="281" source="uniteblue" target="p2" weight="11" />
+      <edge id="282" source="uniteblue" target="mikebrown" weight="11" />
+      <edge id="283" source="uniteblue" target="ferguson" weight="11" />
+      <edge id="284" source="unasemanasinalcohol" target="yanolovuelvoahacer" weight="54" />
+      <edge id="285" source="unasemanasinalcohol" target="prayfor" weight="54" />
+      <edge id="286" source="confession" target="batgirl" weight="33" />
+      <edge id="287" source="confession" target="prayfor" weight="33" />
+      <edge id="288" source="yourself" target="prayfor" weight="25" />
+      <edge id="289" source="1years" target="sadness" weight="28" />
+      <edge id="290" source="1years" target="remember" weight="28" />
+      <edge id="291" source="1years" target="prayfor" weight="28" />
+      <edge id="292" source="ldalaunch" target="latingrammy" weight="40" />
+      <edge id="293" source="ldalaunch" target="larkanaforpti" weight="40" />
+      <edge id="294" source="ldalaunch" target="prayfor" weight="40" />
+      <edge id="295" source="latingrammy" target="larkanaforpti" weight="40" />
+      <edge id="296" source="latingrammy" target="prayfor" weight="40" />
+      <edge id="297" source="mikebrown" target="darrenwilson" weight="11" />
+      <edge id="298" source="mikebrown" target="p2" weight="11" />
+      <edge id="299" source="mikebrown" target="prayfor" weight="36" />
+      <edge id="300" source="mikebrown" target="blackpeople" weight="36" />
+      <edge id="301" source="mikebrown" target="ferguson" weight="94" />
+      <edge id="302" source="brownfamily" target="prayfor" weight="31" />
+      <edge id="303" source="racist" target="weareallmonkeys" weight="34" />
+      <edge id="304" source="racist" target="prayfor" weight="34" />
+      <edge id="305" source="pencintarasulallah" target="weloveulama" weight="554" />
+      <edge id="306" source="pencintarasulallah" target="prayfor" weight="554" />
+      <edge id="307" source="indiana" target="prayfor" weight="45" />
+      <edge id="308" source="força" target="neymar" weight="36" />
+      <edge id="309" source="força" target="neymarjr" weight="36" />
+      <edge id="310" source="força" target="forçaneymar" weight="36" />
+      <edge id="311" source="winterwonderland" target="skisunburst" weight="51" />
+      <edge id="312" source="cepot,,,,," target="prayfor" weight="78" />
+      <edge id="313" source="myfavsinger" target="kembalikansemula" weight="361" />
+      <edge id="314" source="boy" target="after" weight="17" />
+      <edge id="315" source="boy" target="prayfor" weight="17" />
+      <edge id="316" source="boy" target="year-young" weight="17" />
+      <edge id="317" source="fridaysbarrakalloh" target="spaming" weight="37" />
+      <edge id="318" source="fridaysbarrakalloh" target="prayfor" weight="37" />
+      <edge id="319" source="weareallmonkeys" target="prayfor" weight="34" />
+      <edge id="320" source="mh370" target="prayfor" weight="23" />
+      <edge id="321" source="mh370" target="mh17" weight="23" />
+      <edge id="322" source="p2" target="darrenwilson" weight="11" />
+      <edge id="323" source="p2" target="ferguson" weight="11" />
+      <edge id="324" source="forçaneymar" target="neymar" weight="36" />
+      <edge id="325" source="forçaneymar" target="neymarjr" weight="36" />
+      <edge id="326" source="weloveulama" target="prayfor" weight="554" />
+      <edge id="327" source="twostepsback" target="gotta" weight="33" />
+      <edge id="328" source="twostepsback" target="yougotthis" weight="33" />
+      <edge id="329" source="twostepsback" target="prayfor" weight="33" />
+      <edge id="330" source="twostepsback" target="rain," weight="33" />
+      <edge id="331" source="gotta" target="yougotthis" weight="33" />
+      <edge id="332" source="gotta" target="prayfor" weight="33" />
+      <edge id="333" source="gotta" target="rain," weight="33" />
+      <edge id="334" source="justicefor" target="peacefor" weight="94" />
+      <edge id="335" source="justicefor" target="prayfor" weight="94" />
+      <edge id="336" source="prayfor" target="ferguson" weight="195" />
+      <edge id="337" source="prayfor" target="sadness" weight="28" />
+      <edge id="338" source="prayfor" target="mikebrownfamily" weight="138" />
+      <edge id="339" source="prayfor" target="1." weight="25" />
+      <edge id="340" source="prayfor" target="mh17" weight="23" />
+      <edge id="341" source="prayfor" target="staystrong" weight="58" />
+      <edge id="342" source="prayfor" target="prayer" weight="27" />
+      <edge id="343" source="prayfor" target="year-young" weight="17" />
+      <edge id="344" source="prayfor" target="yanolovuelvoahacer" weight="54" />
+      <edge id="345" source="prayfor" target="newsroom" weight="27" />
+      <edge id="346" source="prayfor" target="larkanaforpti" weight="40" />
+      <edge id="347" source="prayfor" target="yougotthis" weight="33" />
+      <edge id="348" source="prayfor" target="excuses" weight="37" />
+      <edge id="349" source="prayfor" target="peacefor" weight="94" />
+      <edge id="350" source="prayfor" target="20/20vision" weight="445" />
+      <edge id="351" source="prayfor" target="gospelfilms" weight="445" />
+      <edge id="352" source="prayfor" target="hutinsert" weight="38" />
+      <edge id="353" source="prayfor" target="after" weight="17" />
+      <edge id="354" source="prayfor" target="remember" weight="28" />
+      <edge id="355" source="prayfor" target="spaming" weight="37" />
+      <edge id="356" source="prayfor" target="blackpeople" weight="36" />
+      <edge id="357" source="prayfor" target="wethands" weight="89" />
+      <edge id="358" source="prayfor" target="rain," weight="33" />
+      <edge id="359" source="prayfor" target="batgirl" weight="33" />
+      <edge id="360" source="sadness" target="remember" weight="28" />
+      <edge id="361" source="neymar" target="neymarjr" weight="36" />
+      <edge id="362" source="51&quot;" target="49" weight="55" />
+      <edge id="363" source="prayer" target="newsroom" weight="27" />
+      <edge id="364" source="year-young" target="after" weight="17" />
+      <edge id="365" source="yougotthis" target="rain," weight="33" />
+      <edge id="366" source="20/20vision" target="gospelfilms" weight="445" />
+      <edge id="367" source="ferguson" target="darrenwilson" weight="11" />
+      <edge id="368" source="ferguson" target="prayforferguson:" weight="37" />
+      <edge id="369" source="ferguson" target="blackpeople" weight="36" />
+    </edges>
+  </graph>
+</gexf>
