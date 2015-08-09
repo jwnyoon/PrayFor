@@ -7,11 +7,11 @@ import time
 
 
 # Twitter API keys go here
-CONSUMER_KEY = 'X35pBx2WqXUxZdY4Z6hu5X4ey'
-CONSUMER_SECRET = 'nzB47ZcVKcyeaQPyjey9JS8D48Ciio2Hppoj71qeBIHcIjqZ7N'
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
 
-OAUTH_TOKEN = '2165157360-MobIczcZ14ZbEwsFqmP2TvQv8IFnvkXogAbE8j2'
-OAUTH_TOKEN_SECRET = 'Jsm97f8xjlkHUAydzCsgW6a8ujJzLm9YhgWsqOU38QDmY'
+OAUTH_TOKEN = ''
+OAUTH_TOKEN_SECRET = ''
 
 auth = twitter.oauth.OAuth(OAUTH_TOKEN, OAUTH_TOKEN_SECRET,
                            CONSUMER_KEY, CONSUMER_SECRET)
